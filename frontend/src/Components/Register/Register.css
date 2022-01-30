@@ -1,0 +1,9 @@
+.card-signin {
+  height: 85%;
+}
+
+.Center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
